@@ -1,0 +1,686 @@
+[
+    {
+        "referenceId": "reference-A234349",
+        "details": "Authors unspecified: Gentamicin. Br Med J. 1967 Jan 21;1(5533):158-9. [<a href='https://go.drugbank.com/articles/A234349'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A234339",
+        "details": "Black FO, Pesznecker S, Stallings V: Permanent gentamicin vestibulotoxicity. Otol Neurotol. 2004 Jul;25(4):559-69. doi: 10.1097/00129492-200407000-00025. [<a href='https://go.drugbank.com/articles/A234339'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A234354",
+        "details": "Kushner B, Allen PD, Crane BT: Frequency and Demographics of Gentamicin Use. Otol Neurotol. 2016 Feb;37(2):190-5. doi: 10.1097/MAO.0000000000000937. [<a href='https://go.drugbank.com/articles/A234354'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A233325",
+        "details": "Authors unspecified: Aminoglycosides . [<a href='https://go.drugbank.com/articles/A233325'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A234359",
+        "details": "Chen C, Chen Y, Wu P, Chen B: Update on new medicinal applications of gentamicin: evidence-based review. J Formos Med Assoc. 2014 Feb;113(2):72-82. doi: 10.1016/j.jfma.2013.10.002. Epub 2013 Nov 9. [<a href='https://go.drugbank.com/articles/A234359'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A234364",
+        "details": "Krause KM, Serio AW, Kane TR, Connolly LE: Aminoglycosides: An Overview. Cold Spring Harb Perspect Med. 2016 Jun 1;6(6). pii: 6/6/a027029. doi: 10.1101/cshperspect.a027029. [<a href='https://go.drugbank.com/articles/A234364'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A234369",
+        "details": "Hayward RS, Harding J, Molloy R, Land L, Longcroft-Neal K, Moore D, Ross JDC: Adverse effects of a single dose of gentamicin in adults: a systematic review. Br J Clin Pharmacol. 2018 Feb;84(2):223-238. doi: 10.1111/bcp.13439. Epub 2017 Nov 3. [<a href='https://go.drugbank.com/articles/A234369'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232294",
+        "details": "Serio AW, Keepers T, Andrews L, Krause KM: Aminoglycoside Revival: Review of a Historically Important Class of Antimicrobials Undergoing Rejuvenation. EcoSal Plus. 2018 Nov;8(1). doi: 10.1128/ecosalplus.ESP-0002-2018. [<a href='https://go.drugbank.com/articles/A232294'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232304",
+        "details": "Moore RA, Bates NC, Hancock RE: Interaction of polycationic antibiotics with Pseudomonas aeruginosa lipopolysaccharide and lipid A studied by using dansyl-polymyxin. Antimicrob Agents Chemother. 1986 Mar;29(3):496-500. doi: 10.1128/aac.29.3.496. [<a href='https://go.drugbank.com/articles/A232304'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232309",
+        "details": "Hancock RE, Raffle VJ, Nicas TI: Involvement of the outer membrane in gentamicin and streptomycin uptake and killing in Pseudomonas aeruginosa. Antimicrob Agents Chemother. 1981 May;19(5):777-85. doi: 10.1128/aac.19.5.777. [<a href='https://go.drugbank.com/articles/A232309'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232314",
+        "details": "Taber HW, Mueller JP, Miller PF, Arrow AS: Bacterial uptake of aminoglycoside antibiotics. Microbiol Rev. 1987 Dec;51(4):439-57. [<a href='https://go.drugbank.com/articles/A232314'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A233320",
+        "details": "Waters M, Tadi P: Streptomycin . [<a href='https://go.drugbank.com/articles/A233320'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A234130",
+        "details": "Chaves BJ, Tadi P: Gentamicin . [<a href='https://go.drugbank.com/articles/A234130'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232329",
+        "details": "Ying L, Zhu H, Shoji S, Fredrick K: Roles of specific aminoglycoside-ribosome interactions in the inhibition of translation. RNA. 2019 Feb;25(2):247-254. doi: 10.1261/rna.068460.118. Epub 2018 Nov 9. [<a href='https://go.drugbank.com/articles/A232329'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232334",
+        "details": "Wallace BJ, Tai PC, Herzog EL, Davis BD: Partial inhibition of polysomal ribosomes of Escherichia coli by streptomycin. Proc Natl Acad Sci U S A. 1973 Apr;70(4):1234-7. doi: 10.1073/pnas.70.4.1234. [<a href='https://go.drugbank.com/articles/A232334'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232339",
+        "details": "Borovinskaya MA, Pai RD, Zhang W, Schuwirth BS, Holton JM, Hirokawa G, Kaji H, Kaji A, Cate JH: Structural basis for aminoglycoside inhibition of bacterial ribosome recycling. Nat Struct Mol Biol. 2007 Aug;14(8):727-32. doi: 10.1038/nsmb1271. Epub 2007 Jul 29. [<a href='https://go.drugbank.com/articles/A232339'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232344",
+        "details": "Tai PC, Wallace BJ, Davis BD: Streptomycin causes misreading of natural messenger by interacting with ribosomes after initiation. Proc Natl Acad Sci U S A. 1978 Jan;75(1):275-9. doi: 10.1073/pnas.75.1.275. [<a href='https://go.drugbank.com/articles/A232344'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L9689",
+        "details": "FDA Approved Drug Products: Gentamicin solution for injection [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/062366s033lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L33254",
+        "details": "DailyMed Drug Label Information: Gentamicin sulfate injection [<a href='https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0cce2238-28d3-4280-b520-ffc3067a2ffa'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A234334",
+        "details": "Ahmed RM, Hannigan IP, MacDougall HG, Chan RC, Halmagyi GM: Gentamicin ototoxicity: a 23-year selected case series of 103 patients. Med J Aust. 2012 Jun 18;196(11):701-4. doi: 10.5694/mja11.10850. [<a href='https://go.drugbank.com/articles/A234334'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L11979",
+        "details": "FDA Approved Drug Products: Neo-Fradin (Neomycin Sulfate) Oral Solution [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/065010s002lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A191529",
+        "details": "Macdonald RH, Beck M: Neomycin: a review with particular reference to dermatological usage. Clin Exp Dermatol. 1983 May;8(3):249-58. doi: 10.1111/j.1365-2230.1983.tb01777.x. [<a href='https://go.drugbank.com/articles/A191529'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A175042",
+        "details": "Lechevalier HA: The 25 years of neomycin. CRC Crit Rev Microbiol. 1975 May;3(4):359-97. [<a href='https://go.drugbank.com/articles/A175042'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L11985",
+        "details": "Neomycin - LiverTox - NCBI Bookshelf [<a href='https://www.ncbi.nlm.nih.gov/books/NBK547874/'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L10532",
+        "details": "FDA Approved Drug Products: Casporyn Neomycin Sulfate, Polymixin B Sulfate, and Hydrocortisone Otic Drops [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/060613s013lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L10716",
+        "details": "FDA Approved Drug Products: Maxitrol Neomycin, Polymyxin B, and Dexamethasone Ophthalmic Suspension [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/050023s036lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A15783",
+        "details": "Dlugosz M, Trylska J: Aminoglycoside association pathways with the 30S ribosomal subunit. J Phys Chem B. 2009 May 21;113(20):7322-30. doi: 10.1021/jp8112914. [<a href='https://go.drugbank.com/articles/A15783'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-T28",
+        "details": "49,50. (2012). In Rang and Dale's Pharmacology (7th ed., pp. 63-). Edinburgh: Elsevier/Churchill Livingstone. [<a href='https://www.google.com/search?tbo=p&tbm=bks&q=978-0-7020-3471-8'>ISBN:978-0-7020-3471-8</a>] "
+    },
+    {
+        "referenceId": "reference-L11982",
+        "details": "Cayman Chemical: Neomycin sulfate Safety Data Sheet [<a href='https://www.caymanchem.com/msdss/14287m.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A233325",
+        "details": "Authors unspecified: Aminoglycosides . [<a href='https://go.drugbank.com/articles/A233325'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A233390",
+        "details": "Laurell G: Pharmacological intervention in the field of ototoxicity. HNO. 2019 Jun;67(6):434-439. doi: 10.1007/s00106-019-0663-1. [<a href='https://go.drugbank.com/articles/A233390'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232294",
+        "details": "Serio AW, Keepers T, Andrews L, Krause KM: Aminoglycoside Revival: Review of a Historically Important Class of Antimicrobials Undergoing Rejuvenation. EcoSal Plus. 2018 Nov;8(1). doi: 10.1128/ecosalplus.ESP-0002-2018. [<a href='https://go.drugbank.com/articles/A232294'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A233320",
+        "details": "Waters M, Tadi P: Streptomycin . [<a href='https://go.drugbank.com/articles/A233320'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A233769",
+        "details": "Germovsek E, Barker CI, Sharland M: What do I need to know about aminoglycoside antibiotics? Arch Dis Child Educ Pract Ed. 2017 Apr;102(2):89-93. doi: 10.1136/archdischild-2015-309069. Epub 2016 Aug 9. [<a href='https://go.drugbank.com/articles/A233769'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232304",
+        "details": "Moore RA, Bates NC, Hancock RE: Interaction of polycationic antibiotics with Pseudomonas aeruginosa lipopolysaccharide and lipid A studied by using dansyl-polymyxin. Antimicrob Agents Chemother. 1986 Mar;29(3):496-500. doi: 10.1128/aac.29.3.496. [<a href='https://go.drugbank.com/articles/A232304'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232309",
+        "details": "Hancock RE, Raffle VJ, Nicas TI: Involvement of the outer membrane in gentamicin and streptomycin uptake and killing in Pseudomonas aeruginosa. Antimicrob Agents Chemother. 1981 May;19(5):777-85. doi: 10.1128/aac.19.5.777. [<a href='https://go.drugbank.com/articles/A232309'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232314",
+        "details": "Taber HW, Mueller JP, Miller PF, Arrow AS: Bacterial uptake of aminoglycoside antibiotics. Microbiol Rev. 1987 Dec;51(4):439-57. [<a href='https://go.drugbank.com/articles/A232314'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232319",
+        "details": "Davis BD, Chen LL, Tai PC: Misread protein creates membrane channels: an essential step in the bactericidal action of aminoglycosides. Proc Natl Acad Sci U S A. 1986 Aug;83(16):6164-8. doi: 10.1073/pnas.83.16.6164. [<a href='https://go.drugbank.com/articles/A232319'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232299",
+        "details": "Bulitta JB, Ly NS, Landersdorfer CB, Wanigaratne NA, Velkov T, Yadav R, Oliver A, Martin L, Shin BS, Forrest A, Tsuji BT: Two mechanisms of killing of Pseudomonas aeruginosa by tobramycin assessed at multiple inocula via mechanism-based modeling. Antimicrob Agents Chemother. 2015 Apr;59(4):2315-27. doi: 10.1128/AAC.04099-14. Epub 2015 Feb 2. [<a href='https://go.drugbank.com/articles/A232299'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232324",
+        "details": "O'Sullivan ME, Poitevin F, Sierra RG, Gati C, Dao EH, Rao Y, Aksit F, Ciftci H, Corsepius N, Greenhouse R, Hayes B, Hunter MS, Liang M, McGurk A, Mbgam P, Obrinsky T, Pardo-Avila F, Seaberg MH, Cheng AG, Ricci AJ, DeMirci H: Aminoglycoside ribosome interactions reveal novel conformational states at ambient temperature. Nucleic Acids Res. 2018 Oct 12;46(18):9793-9804. doi: 10.1093/nar/gky693. [<a href='https://go.drugbank.com/articles/A232324'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232329",
+        "details": "Ying L, Zhu H, Shoji S, Fredrick K: Roles of specific aminoglycoside-ribosome interactions in the inhibition of translation. RNA. 2019 Feb;25(2):247-254. doi: 10.1261/rna.068460.118. Epub 2018 Nov 9. [<a href='https://go.drugbank.com/articles/A232329'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232334",
+        "details": "Wallace BJ, Tai PC, Herzog EL, Davis BD: Partial inhibition of polysomal ribosomes of Escherichia coli by streptomycin. Proc Natl Acad Sci U S A. 1973 Apr;70(4):1234-7. doi: 10.1073/pnas.70.4.1234. [<a href='https://go.drugbank.com/articles/A232334'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232339",
+        "details": "Borovinskaya MA, Pai RD, Zhang W, Schuwirth BS, Holton JM, Hirokawa G, Kaji H, Kaji A, Cate JH: Structural basis for aminoglycoside inhibition of bacterial ribosome recycling. Nat Struct Mol Biol. 2007 Aug;14(8):727-32. doi: 10.1038/nsmb1271. Epub 2007 Jul 29. [<a href='https://go.drugbank.com/articles/A232339'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A232344",
+        "details": "Tai PC, Wallace BJ, Davis BD: Streptomycin causes misreading of natural messenger by interacting with ribosomes after initiation. Proc Natl Acad Sci U S A. 1978 Jan;75(1):275-9. doi: 10.1073/pnas.75.1.275. [<a href='https://go.drugbank.com/articles/A232344'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L33224",
+        "details": "DailyMed Drug Label Information: Streptomycin injection [<a href='https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=abd1f64e-4283-4370-aae8-3666316aa36e'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A233734",
+        "details": "Buggs CW, Pilling MA, Bronstein B, Hirshfeld JW, Worzniak L, Key LJ: THE ABSORPTION, DISTRIBUTION, AND EXCRETION OF STREPTOMYCIN IN MAN. J Clin Invest. 1946 Jan;25(1):94-102. doi: 10.1172/JCI101693. [<a href='https://go.drugbank.com/articles/A233734'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A233385",
+        "details": "Adeyemo AA, Oluwatosin O, Omotade OO: Study of streptomycin-induced ototoxicity: protocol for a longitudinal study. Springerplus. 2016 Jun 17;5(1):758. doi: 10.1186/s40064-016-2429-5. eCollection 2016. [<a href='https://go.drugbank.com/articles/A233385'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L43942",
+        "details": "Code of Federal Regulations 216.24: Drug products withdrawn or removed from the market for reasons of safety or effectiveness. [<a href='https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-216/subpart-B/section-216.24'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L44022",
+        "details": "Federal Register: Determination That CHLOROMYCETIN (Chloramphenicol) Capsules, 250 Milligrams, Were Withdrawn From Sale for Reasons of Safety or Effectiveness [<a href='https://www.federalregister.gov/documents/2012/07/13/2012-17091/determination-that-chloromycetin-chloramphenicol-capsules-250-milligrams-were-withdrawn-from-sale'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A178870",
+        "details": "Zhang GF, Liu X, Zhang S, Pan B, Liu ML: Ciprofloxacin derivatives and their antibacterial activities. Eur J Med Chem. 2018 Feb 25;146:599-612. doi: 10.1016/j.ejmech.2018.01.078. Epub 2018 Feb 4. [<a href='https://go.drugbank.com/articles/A178870'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L6469",
+        "details": "FDA Approved Drug Products: Cetraxal Solution/Drops;Otic [<a href='https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021918'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L6472",
+        "details": "FDA Approved Drug Products: Ciloxan Solution/Drops; Opthmalmic [<a href='https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=019992'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L6475",
+        "details": "FDA Approved Drug Products: Ciloxan Ointment; Opthalmic [<a href='https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020369'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L6478",
+        "details": "FDA Approved Drug Products: CIPRO IV (ciprofloxacin) injection [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/019847s062lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L6481",
+        "details": "FDA Approved Drug Products: CIPRO (ciprofloxacin) oral tablets and suspension [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/019537s093,020780s049lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L6484",
+        "details": "FDA Approved Drug Products: Cipro HC Suspension/Drops; Otic [<a href='https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020805'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L6487",
+        "details": "FDA Approved Drug Products: CIPRO XR (ciprofloxacin) extended-release tablets [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/021473s043lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L6490",
+        "details": "FDA Approved Drug Products: Ciprodex Suspension/Drops; Otic [<a href='https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021537'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L6493",
+        "details": "FDA Approved Drug Products: Otiprio Injection [<a href='https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=207986'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L6463",
+        "details": "FDA Approved Drug Products: Cipro [<a href='https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=019537'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A178885",
+        "details": "Pietsch F, Bergman JM, Brandis G, Marcusson LL, Zorzet A, Huseby DL, Hughes D: Ciprofloxacin selects for RNA polymerase mutations with pleiotropic antibiotic resistance effects. J Antimicrob Chemother. 2017 Jan;72(1):75-84. doi: 10.1093/jac/dkw364. Epub 2016 Sep 12. [<a href='https://go.drugbank.com/articles/A178885'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A178894",
+        "details": "Varshney A, Ansari Y, Zaidi N, Ahmad E, Badr G, Alam P, Khan RH: Analysis of binding interaction between antibacterial ciprofloxacin and human serum albumin by spectroscopic techniques. Cell Biochem Biophys. 2014 Sep;70(1):93-101. doi: 10.1007/s12013-014-9863-1. [<a href='https://go.drugbank.com/articles/A178894'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A178876",
+        "details": "LeBel M: Ciprofloxacin: chemistry, mechanism of action, resistance, antimicrobial spectrum, pharmacokinetics, clinical trials, and adverse reactions. Pharmacotherapy. 1988;8(1):3-33. [<a href='https://go.drugbank.com/articles/A178876'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A178882",
+        "details": "Shen LL, Pernet AG: Mechanism of inhibition of DNA gyrase by analogues of nalidixic acid: the target of the drugs is DNA. Proc Natl Acad Sci U S A. 1985 Jan;82(2):307-11. doi: 10.1073/pnas.82.2.307. [<a href='https://go.drugbank.com/articles/A178882'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A178858",
+        "details": "Wingender W, Graefe KH, Gau W, Forster D, Beermann D, Schacht P: Pharmacokinetics of ciprofloxacin after oral and intravenous administration in healthy volunteers. Eur J Clin Microbiol. 1984 Aug;3(4):355-9. [<a href='https://go.drugbank.com/articles/A178858'>Article</a>] "
+    },
+    {
+        "referenceId": "label-reference-DB00537",
+        "details": "<a href='https://go.drugbank.com//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00537.pdf?1265922808'>FDA label: Download</a> (120 KB) "
+    },
+    {
+        "referenceId": "reference-A820",
+        "details": "Drusano GL, Standiford HC, Plaisance K, Forrest A, Leslie J, Caldwell J: Absolute oral bioavailability of ciprofloxacin. Antimicrob Agents Chemother. 1986 Sep;30(3):444-6. [<a href='https://go.drugbank.com/articles/A820'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A178822",
+        "details": "van Geijlswijk IM, van Zanten AR, van der Meer YG: Reliable new high-performance liquid chromatographic method for the determination of ciprofloxacin in human serum. Ther Drug Monit. 2006 Apr;28(2):278-81. doi: 10.1097/01.ftd.0000189823.43236.90. [<a href='https://go.drugbank.com/articles/A178822'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A178819",
+        "details": "Rusch M, Spielmeyer A, Zorn H, Hamscher G: Biotransformation of ciprofloxacin by Xylaria longipes: structure elucidation and residual antibacterial activity of metabolites. Appl Microbiol Biotechnol. 2018 Oct;102(19):8573-8584. doi: 10.1007/s00253-018-9231-y. Epub 2018 Jul 21. [<a href='https://go.drugbank.com/articles/A178819'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A178828",
+        "details": "Mack G: Improved high-performance liquid chromatographic determination of ciprofloxacin and its metabolites in human specimens. J Chromatogr. 1992 Nov 6;582(1-2):263-7. [<a href='https://go.drugbank.com/articles/A178828'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A178831",
+        "details": "Abadia AR, De Francesco L, Guaitani A: Disposition of ciprofloxacin in the isolated perfused rat liver. Drug Metab Dispos. 1995 Feb;23(2):197-200. [<a href='https://go.drugbank.com/articles/A178831'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A178954",
+        "details": "George MJ, Dew RB 3rd, Daly JS: Acute renal failure after an overdose of ciprofloxacin. Arch Intern Med. 1991 Mar;151(3):620. [<a href='https://go.drugbank.com/articles/A178954'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A178957",
+        "details": "Dharnidharka VR, Nadeau K, Cannon CL, Harris HW, Rosen S: Ciprofloxacin overdose: acute renal failure with prominent apoptotic changes. Am J Kidney Dis. 1998 Apr;31(4):710-2. [<a href='https://go.drugbank.com/articles/A178957'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A178960",
+        "details": "Hajji M, Jebali H, Mrad A, Blel Y, Brahmi N, Kheder R, Beji S, Fatma LB, Smaoui W, Krid M, Hmida FB, Rais L, Zouaghi MK: Nephrotoxicity of Ciprofloxacin: Five Cases and a Review of the Literature. Drug Saf Case Rep. 2018 Apr 18;5(1):17. doi: 10.1007/s40800-018-0073-4. [<a href='https://go.drugbank.com/articles/A178960'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L6529",
+        "details": "Pfizer: Ciprofloxacin MSDS [<a href='https://www.pfizer.com/sites/default/files/products/material_safety_data/PZ01031.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11599",
+        "details": "FDA Approved Drug Products: Clindamycin in 0.9% NaCl for intravenous injection [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/208083s003lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11596",
+        "details": "FDA Approved Drug Products: Clindesse (clindamycin phosphate) vaginal cream [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/050793s015lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11593",
+        "details": "FDA Approved Drug Products: Evoclin (clindamycin phosphate) topical foam [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/050801s018lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A190621",
+        "details": "Spizek J, Rezanka T: Lincosamides: Chemical structure, biosynthesis, mechanism of action, resistance, and applications. Biochem Pharmacol. 2017 Jun 1;133:20-28. doi: 10.1016/j.bcp.2016.12.001. Epub 2016 Dec 7. [<a href='https://go.drugbank.com/articles/A190621'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A190657",
+        "details": "Spizek J, Rezanka T: Lincomycin, clindamycin and their applications. Appl Microbiol Biotechnol. 2004 May;64(4):455-64. doi: 10.1007/s00253-003-1545-7. Epub 2004 Feb 5. [<a href='https://go.drugbank.com/articles/A190657'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L11602",
+        "details": "FDA Approved Drug Products: Cleocin (clindamycin hydrochloride) oral capsules [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/050162s101lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11611",
+        "details": "Health Canada Product Monograph: Clindets (clindamycin phosphate) topical swabs [<a href='https://pdf.hres.ca/dpd_pm/00036879.PDF'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11605",
+        "details": "FDA Approved Drug Products: Cleocin T (clindamycin phosphate) topical gel/solution/lotion [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/050537s041,050600s018,050615s019lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11584",
+        "details": "FDA Approved Drug Products: Onexton (clindamycin phosphate/benzoyl peroxide) topical gel [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/050819s012lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11590",
+        "details": "FDA Approved Drug Products: Ziana (clindamycin phosphate/tretinoin) topical gel [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2006/050802lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L48666",
+        "details": "FDA Approved Drug Products: Cabtreo (clindamycin phosphate, adapalene, and benzoyl peroxide) topical gel [<a href='https://pi.bauschhealth.com/globalassets/BHC/PI/Cabtreo-PI.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11608",
+        "details": "FDA Approved Drug Products: Cleocin (clindamycin phosphate) vaginal suppositories [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/050767s016lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L39416",
+        "details": "FDA Approved Drug Products: Xaciato (clindamycin phosphate) vaginal gel [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/215650s000lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11629",
+        "details": "Health Canada Product Monograph: Clindamycin oral capsules [<a href='https://pdf.hres.ca/dpd_pm/00054159.PDF'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11614",
+        "details": "CaymanChem: Clindamycin MSDS [<a href='https://www.caymanchem.com/msdss/15006m.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A190621",
+        "details": "Spizek J, Rezanka T: Lincosamides: Chemical structure, biosynthesis, mechanism of action, resistance, and applications. Biochem Pharmacol. 2017 Jun 1;133:20-28. doi: 10.1016/j.bcp.2016.12.001. Epub 2016 Dec 7. [<a href='https://go.drugbank.com/articles/A190621'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A190657",
+        "details": "Spizek J, Rezanka T: Lincomycin, clindamycin and their applications. Appl Microbiol Biotechnol. 2004 May;64(4):455-64. doi: 10.1007/s00253-003-1545-7. Epub 2004 Feb 5. [<a href='https://go.drugbank.com/articles/A190657'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L33214",
+        "details": "FDA Approved Drug Products: Lincocin (lincomycin) injection [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/050317s183lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A233794",
+        "details": "Verdier L, Bertho G, Gharbi-Benarous J, Girault JP: Lincomycin and clindamycin conformations. A fragment shared by macrolides, ketolides and lincosamides determined from TRNOE ribosome-bound conformations. Bioorg Med Chem. 2000 Jun;8(6):1225-43. doi: 10.1016/s0968-0896(00)00081-x. [<a href='https://go.drugbank.com/articles/A233794'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A233799",
+        "details": "Kouvela EC, Petropoulos AD, Kalpaxis DL: Unraveling new features of clindamycin interaction with functional ribosomes and dependence of the drug potency on polyamines. J Biol Chem. 2006 Aug 11;281(32):23103-10. doi: 10.1074/jbc.M603263200. Epub 2006 Jun 7. [<a href='https://go.drugbank.com/articles/A233799'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A233804",
+        "details": "Kostopoulou ON, Papadopoulos G, Kouvela EC, Kalpaxis DL: Clindamycin binding to ribosomes revisited: foot printing and computational detection of two binding sites within the peptidyl transferase center. Pharmazie. 2013 Jul;68(7):616-21. [<a href='https://go.drugbank.com/articles/A233804'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A233819",
+        "details": "Matzov D, Eyal Z, Benhamou RI, Shalev-Benami M, Halfon Y, Krupkin M, Zimmerman E, Rozenberg H, Bashan A, Fridman M, Yonath A: Structural insights of lincosamides targeting the ribosome of Staphylococcus aureus. Nucleic Acids Res. 2017 Sep 29;45(17):10284-10292. doi: 10.1093/nar/gkx658. [<a href='https://go.drugbank.com/articles/A233819'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A233839",
+        "details": "Smith RB, Lummis WL, Monovich RE, DeSante KA: Lincomycin serum and saliva concentrations after intramuscular injection of high doses. J Clin Pharmacol. 1981 Oct;21(10):411-7. doi: 10.1002/j.1552-4604.1981.tb01742.x. [<a href='https://go.drugbank.com/articles/A233839'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A233844",
+        "details": "Gwilt PR, Smith RB: Protein binding and pharmacokinetics of lincomycin following intravenous administration of high doses. J Clin Pharmacol. 1986 Feb;26(2):87-90. doi: 10.1002/j.1552-4604.1986.tb02911.x. [<a href='https://go.drugbank.com/articles/A233844'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A234019",
+        "details": "Son DS, Osabe M, Shimoda M, Kokue E: Contribution of alpha 1-acid glycoprotein to species difference in lincosamides-plasma protein binding kinetics. J Vet Pharmacol Ther. 1998 Feb;21(1):34-40. doi: 10.1046/j.1365-2885.1998.00111.x. [<a href='https://go.drugbank.com/articles/A234019'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L33304",
+        "details": "EMA Committee Report Lincomycin Sep 1998 [<a href='https://www.ema.europa.eu/en/documents/mrl-report/lincomycin-summary-report-1-committee-veterinary-medicinal-products_en.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L5245",
+        "details": "NIH StatPearls: Erythromycin [<a href='https://www.ncbi.nlm.nih.gov/books/NBK532249/'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L7261",
+        "details": "FDA Approved Drug Products: Ery-Ped (erythromycin ethylsuccinate) granules for oral suspension [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/050207s074,050611s036lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A174175",
+        "details": "Fohner AE, Sparreboom A, Altman RB, Klein TE: PharmGKB summary: Macrolide antibiotic pathway, pharmacokinetics/pharmacodynamics. Pharmacogenet Genomics. 2017 Apr;27(4):164-167. doi: 10.1097/FPC.0000000000000270. [<a href='https://go.drugbank.com/articles/A174175'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L7270",
+        "details": "MedSafe NZ: ERA (erythromycin stearate) oral filmtabs [<a href='https://www.medsafe.govt.nz/Profs/Datasheet/e/ERAcaptab.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A6505",
+        "details": "Champney WS, Burdine R: Macrolide antibiotics inhibit 50S ribosomal subunit assembly in Bacillus subtilis and Staphylococcus aureus. Antimicrob Agents Chemother. 1995 Sep;39(9):2141-4. [<a href='https://go.drugbank.com/articles/A6505'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A14179",
+        "details": "Champney WS, Miller M: Inhibition of 50S ribosomal subunit assembly in Haemophilus influenzae cells by azithromycin and erythromycin. Curr Microbiol. 2002 Jun;44(6):418-24. [<a href='https://go.drugbank.com/articles/A14179'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A174193",
+        "details": "Dinos GP: The macrolide antibiotic renaissance. Br J Pharmacol. 2017 Sep;174(18):2967-2983. doi: 10.1111/bph.13936. Epub 2017 Aug 10. [<a href='https://go.drugbank.com/articles/A174193'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A180598",
+        "details": "Wang LQ, Hu ZY, Yu Q, Guo X, Xiong J, Huang ZZ, Cheng ZN: [Pharmacokinetics of erythromycin stinoprate capsule]. Zhong Nan Da Xue Xue Bao Yi Xue Ban. 2005 Apr;30(2):197-201. [<a href='https://go.drugbank.com/articles/A180598'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A180607",
+        "details": "Kavi J, Webberley JM, Andrews JM, Wise R: A comparison of the pharmacokinetics and tissue penetration of spiramycin and erythromycin. J Antimicrob Chemother. 1988 Jul;22 Suppl B:105-10. doi: 10.1093/jac/22.supplement_b.105. [<a href='https://go.drugbank.com/articles/A180607'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A174451",
+        "details": "Amsden GW: Erythromycin, clarithromycin, and azithromycin: are the differences real? Clin Ther. 1996 Jan-Feb;18(1):56-72; discussion 55. [<a href='https://go.drugbank.com/articles/A174451'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A180595",
+        "details": "Mather LE, Austin KL, Philpot CR, McDonald PJ: Absorption and bioavailability of oral erythromycin. Br J Clin Pharmacol. 1981 Aug;12(2):131-40. doi: 10.1111/j.1365-2125.1981.tb01191.x. [<a href='https://go.drugbank.com/articles/A180595'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A174448",
+        "details": "Krasniqi S, Matzneller P, Kinzig M, Sorgel F, Huttner S, Lackner E, Muller M, Zeitlinger M: Blood, tissue, and intracellular concentrations of erythromycin and its metabolite anhydroerythromycin during and after therapy. Antimicrob Agents Chemother. 2012 Feb;56(2):1059-64. doi: 10.1128/AAC.05490-11. Epub 2011 Nov 14. [<a href='https://go.drugbank.com/articles/A174448'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A174454",
+        "details": "Gordon RC, Regamey C, Kirby WM: Serum protein binding of erythromycin, lincomycin, and clindamycin. J Pharm Sci. 1973 Jul;62(7):1074-7. [<a href='https://go.drugbank.com/articles/A174454'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A33081",
+        "details": "Periti P, Mazzei T, Mini E, Novelli A: Clinical pharmacokinetic properties of the macrolide antibiotics. Effects of age and various pathophysiological states (Part I). Clin Pharmacokinet. 1989 Apr;16(4):193-214. doi: 10.2165/00003088-198916040-00001. [<a href='https://go.drugbank.com/articles/A33081'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A174457",
+        "details": "Sun H, Frassetto LA, Huang Y, Benet LZ: Hepatic clearance, but not gut availability, of erythromycin is altered in patients with end-stage renal disease. Clin Pharmacol Ther. 2010 Apr;87(4):465-72. doi: 10.1038/clpt.2009.247. Epub 2010 Jan 20. [<a href='https://go.drugbank.com/articles/A174457'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L7279",
+        "details": "Pfizer: Erythromycin MSDS [<a href='https://www.pfizer.com/system/files/products/material_safety_data/PZ00645.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A190648",
+        "details": "Bodey GP, Nance J: Amoxicillin: in vitro and pharmacological studies. Antimicrob Agents Chemother. 1972 Apr;1(4):358-62. doi: 10.1128/aac.1.4.358. [<a href='https://go.drugbank.com/articles/A190648'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L11644",
+        "details": "FDA Approved Drug Products: Amoxil Amoxicillin Oral Capsules (Discontinued) [<a href='https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=050459'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11656",
+        "details": "FDA Approved Drug Products: Amoxicillin Oral Suspension [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/065119s020lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11659",
+        "details": "FDA Approved Drug Products: Amoxicillin Oral Tablets [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2013/065056s017lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11650",
+        "details": "FDA Approved Drug Products: Augmentin XR Amoxicillin and Clavulanate Oral Extended Release Tablets [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/050785s015lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L7880",
+        "details": "FDA Approved Drug Products: Augmentin Amoxicillin and Clavulanate Oral Tablets and Suspension [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2013/050564s053s055,050575s040s042,050597s047s049,050720s026s028,050725s028s030,050726s022s024lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11653",
+        "details": "FDA Approved Drug Products: Amoxicillin and Clavulanate Oral Suspension [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2009/065162s021lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L9743",
+        "details": "FDA Approved Drug Products: Talicia Amoxicillin, Omeprazole, and Rifabutin Oral Delayed Release Capsules [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/213004lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11647",
+        "details": "FDA Approved Drug Products: Omeclamox-Pak Oral Capsules and Tablets [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/050824s007lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L41695",
+        "details": "FDA Approved Drug Products: VOQUEZNA TRIPLE PAK (vonoprazan tablets; amoxicillin capsules; clarithromycin tablets), co-packaged for oral use and VOQUEZNA DUAL PAK (vonoprazan tablets; amoxicillin capsules) co-packaged for oral use [<a href='http://www.phathompharma.com/wp-content/uploads/VOQUEZNA-TRIPLE-PAK-and-VOQUEZNA-DUAL-PAK-FDA-Final-Label-3.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A6205",
+        "details": "Okamoto T, Yoshiyama H, Nakazawa T, Park ID, Chang MW, Yanai H, Okita K, Shirai M: A change in PBP1 is involved in amoxicillin resistance of clinical isolates of Helicobacter pylori. J Antimicrob Chemother. 2002 Dec;50(6):849-56. [<a href='https://go.drugbank.com/articles/A6205'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A190678",
+        "details": "Sauvage E, Terrak M: Glycosyltransferases and Transpeptidases/Penicillin-Binding Proteins: Valuable Targets for New Antibacterials. Antibiotics (Basel). 2016 Feb 17;5(1). pii: antibiotics5010012. doi: 10.3390/antibiotics5010012. [<a href='https://go.drugbank.com/articles/A190678'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A190642",
+        "details": "Akhavan BJ, Vijhani P: Amoxicillin . [<a href='https://go.drugbank.com/articles/A190642'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A190675",
+        "details": "Gordon C, Regamey C, Kirby WM: Comparative clinical pharmacology of amoxicillin and ampicillin administered orally. Antimicrob Agents Chemother. 1972 Jun;1(6):504-7. doi: 10.1128/aac.1.6.504. [<a href='https://go.drugbank.com/articles/A190675'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A190630",
+        "details": "de Velde F, de Winter BC, Koch BC, van Gelder T, Mouton JW: Non-linear absorption pharmacokinetics of amoxicillin: consequences for dosing regimens and clinical breakpoints. J Antimicrob Chemother. 2016 Oct;71(10):2909-17. doi: 10.1093/jac/dkw226. Epub 2016 Jun 20. [<a href='https://go.drugbank.com/articles/A190630'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A190627",
+        "details": "Carlier M, Noe M, De Waele JJ, Stove V, Verstraete AG, Lipman J, Roberts JA: Population pharmacokinetics and dosing simulations of amoxicillin/clavulanic acid in critically ill patients. J Antimicrob Chemother. 2013 Nov;68(11):2600-8. doi: 10.1093/jac/dkt240. Epub 2013 Jun 25. [<a href='https://go.drugbank.com/articles/A190627'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A190618",
+        "details": "Szultka M, Krzeminski R, Jackowski M, Buszewski B: Identification of In Vitro Metabolites of Amoxicillin in Human Liver Microsomes by LC-ESI/MS. Chromatographia. 2014;77:1027-1035. doi: 10.1007/s10337-014-2648-2. Epub 2014 Mar 22. [<a href='https://go.drugbank.com/articles/A190618'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A190660",
+        "details": "Belko J, Urueta G, Emre U: Amoxicillin overdose manifested by hematuria and acute renal failure. Pediatr Infect Dis J. 1995 Oct;14(10):917-9. [<a href='https://go.drugbank.com/articles/A190660'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L33170",
+        "details": "Health Canada Product Monograph: Cloxacillin sodium powder for solution for injection [<a href='https://pdf.hres.ca/dpd_pm/00049752.PDF'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L33165",
+        "details": "Health Canada Product Monograph: Cloxacillin sodium for oral use [<a href='https://pdf.hres.ca/dpd_pm/00055444.PDF'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A15505",
+        "details": "Bratlid D, Bergan T: Displacement of albumin-bound antimicrobial agents by bilirubin. Pharmacology. 1976;14(5):464-72. doi: 10.1159/000136629. [<a href='https://go.drugbank.com/articles/A15505'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A233984",
+        "details": "Thijssen HH, Mattie H: Active metabolites of isoxazolylpencillins in humans. Antimicrob Agents Chemother. 1976 Sep;10(3):441-6. doi: 10.1128/aac.10.3.441. [<a href='https://go.drugbank.com/articles/A233984'>Article</a>] "
+    },
+    {
+        "referenceId": "msds-reference-DB01053",
+        "details": "<a href='https://go.drugbank.com//s3-us-west-2.amazonaws.com/drugbank/msds/DB01053.pdf?1265922735'>MSDS: Download</a> (47.7 KB) "
+    },
+    {
+        "referenceId": "reference-A955",
+        "details": "Karala AR, Ruddock LW: Bacitracin is not a specific inhibitor of protein disulfide isomerase. FEBS J. 2010 Jun;277(11):2454-62. doi: 10.1111/j.1742-4658.2010.07660.x. Epub 2010 Apr 30. [<a href='https://go.drugbank.com/articles/A955'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A181952",
+        "details": "Toscano WA Jr, Storm DR: Bacitracin. Pharmacol Ther. 1982;16(2):199-210. [<a href='https://go.drugbank.com/articles/A181952'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A181997",
+        "details": "Nguyen R, Sun Y: Bacitracin Topical . [<a href='https://go.drugbank.com/articles/A181997'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L7748",
+        "details": "FDA Approved Drug Products: Bacitracin Injection [<a href='https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=060733'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L7769",
+        "details": "FDA Approved Drug Products: Bacitracin, Neomycin, and Polymyxin B Ophthalmic Ointment [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2004/50417slr011_neosporin_lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L7772",
+        "details": "FDA Approved Drug Products: Bacitracin, Neomycin, Polymyxin B, and Hydrocortisone Topical Ointment [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2003/50168slr078_cotisporin_lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A954",
+        "details": "Tay WM, Epperson JD, da Silva GF, Ming LJ: 1H NMR, mechanism, and mononuclear oxidative activity of the antibiotic metallopeptide bacitracin: the role of D-Glu-4, interaction with pyrophosphate moiety, DNA binding and cleavage, and bioactivity. J Am Chem Soc. 2010 Apr 28;132(16):5652-61. doi: 10.1021/ja910504t. [<a href='https://go.drugbank.com/articles/A954'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A182024",
+        "details": "Authors unspecified: Bacitracin . [<a href='https://go.drugbank.com/articles/A182024'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L7784",
+        "details": "FDA Briefing Document: Bacitracin for Intramuscular Injection [<a href='https://www.fda.gov/media/123641/download'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A182009",
+        "details": "Katsila T, Siskos AP, Tamvakopoulos C: Peptide and protein drugs: the study of their metabolism and catabolism by mass spectrometry. Mass Spectrom Rev. 2012 Jan-Feb;31(1):110-33. doi: 10.1002/mas.20340. Epub 2011 Jun 22. [<a href='https://go.drugbank.com/articles/A182009'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A182018",
+        "details": "Eagle H, Newman EV, Greif R, Burkholder TM, Goodman SC, Musselman AD: THE BLOOD LEVELS AND RENAL CLEARANCE IN RABBITS AND MAN OF AN ANTIBIOTIC DERIVED FROM B. SUBTILIS (BACITRACIN). J Clin Invest. 1947 Sep;26(5):919-28. doi: 10.1172/JCI101886. [<a href='https://go.drugbank.com/articles/A182018'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L7775",
+        "details": "Pfizer: Corticosporin Safety Data Sheet [<a href='https://www.pfizer.com/sites/default/files/products/material_safety_data/Cortisporin_Ointment_1-Sep-2015.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-T662",
+        "details": "2. (2018). In Poisoning &amp; Drug Overdose (7th ed.). McGraw-Hill Education. [<a href='https://www.google.com/search?tbo=p&tbm=bks&q=978-0-07-183979-2'>ISBN:978-0-07-183979-2</a>] "
+    },
+    {
+        "referenceId": "reference-A176429",
+        "details": "Velkov T, Roberts KD, Nation RL, Thompson PE, Li J: Pharmacology of polymyxins: new insights into an 'old' class of antibiotics. Future Microbiol. 2013 Jun;8(6):711-24. doi: 10.2217/fmb.13.39. [<a href='https://go.drugbank.com/articles/A176429'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A176426",
+        "details": "Poirel L, Jayol A, Nordmann P: Polymyxins: Antibacterial Activity, Susceptibility Testing, and Resistance Mechanisms Encoded by Plasmids or Chromosomes. Clin Microbiol Rev. 2017 Apr;30(2):557-596. doi: 10.1128/CMR.00064-16. [<a href='https://go.drugbank.com/articles/A176426'>Article</a>] "
+    },
+    {
+        "referenceId": "label-reference-DB00781",
+        "details": "<a href='https://go.drugbank.com//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00781.pdf?1553639594'>FDA label: Download</a> (219 KB) "
+    },
+    {
+        "referenceId": "reference-A176432",
+        "details": "Zavascki AP, Goldani LZ, Cao G, Superti SV, Lutz L, Barth AL, Ramos F, Boniatti MM, Nation RL, Li J: Pharmacokinetics of intravenous polymyxin B in critically ill patients. Clin Infect Dis. 2008 Nov 15;47(10):1298-304. doi: 10.1086/592577. [<a href='https://go.drugbank.com/articles/A176432'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A176390",
+        "details": "Avedissian SN, Liu J, Rhodes NJ, Lee A, Pais GM, Hauser AR, Scheetz MH: A Review of the Clinical Pharmacokinetics of Polymyxin B. Antibiotics (Basel). 2019 Mar 22;8(1). pii: antibiotics8010031. doi: 10.3390/antibiotics8010031. [<a href='https://go.drugbank.com/articles/A176390'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-F4151",
+        "details": "Product Monograph: Polymyxin B For Injection USP [<a href='https://go.drugbank.com//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/004/151/original/1.3.1-SteriMax-English-PM-February-8-201612.pdf?1553794616'>File</a>] "
+    },
+    {
+        "referenceId": "reference-A176420",
+        "details": "Abodakpi H, Gohlke J, Chang KT, Chow DS, Tam VH: Analytical and functional determination of polymyxin B protein binding in serum. Antimicrob Agents Chemother. 2015 Nov;59(11):7121-3. doi: 10.1128/AAC.01815-15. Epub 2015 Aug 31. [<a href='https://go.drugbank.com/articles/A176420'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A176399",
+        "details": "Nation RL, Rigatto MHP, Falci DR, Zavascki AP: Polymyxin Acute Kidney Injury: Dosing and Other Strategies to Reduce Toxicity. Antibiotics (Basel). 2019 Mar 14;8(1). pii: antibiotics8010024. doi: 10.3390/antibiotics8010024. [<a href='https://go.drugbank.com/articles/A176399'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L11893",
+        "details": "FDA Approved Drug Products: Trimethoprim oral tablets [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2016/018679s044lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11830",
+        "details": "FDA Approved Drug Products: Bactrim (sulfamethoxazole/trimethoprim) oral tablets [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/017377s074lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-T707",
+        "details": "Antibacterial Agents That Interfere With Folate Synthesis. (2020). In Rang and Dale's Pharmacology (9th ed.). Edinburgh: Elsevier. [<a href='https://www.google.com/search?tbo=p&tbm=bks&q=9780702080609'>ISBN:9780702080609</a>] "
+    },
+    {
+        "referenceId": "reference-L11890",
+        "details": "Health Canada Product Monograph: Trimethoprim oral tablets [<a href='https://pdf.hres.ca/dpd_pm/00025165.PDF'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11863",
+        "details": "FDA Approved Drug Products: Sulfamethoxazole/Trimethoprim oral suspension [<a href='https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/077612s005lbl.pdf'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-L11887",
+        "details": "Health Canada Product Monograph: Polyrimethoprim (polymyxin B/trimethoprim) ophthalmic solution [<a href='https://pdf.hres.ca/dpd_pm/00016847.PDF'>Link</a>] "
+    },
+    {
+        "referenceId": "reference-A191089",
+        "details": "Bushby SR: Synergy of trimethoprim-sulfamethoxazole. Can Med Assoc J. 1975 Jun 14;112(13 Spec No):63-6. [<a href='https://go.drugbank.com/articles/A191089'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A191368",
+        "details": "Bergan T, Ortengren B, Westerlund D: Clinical pharmacokinetics of co-trimazine. Clin Pharmacokinet. 1986 Sep-Oct;11(5):372-86. doi: 10.2165/00003088-198611050-00003. [<a href='https://go.drugbank.com/articles/A191368'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-A191149",
+        "details": "Goldman JL, Leeder JS, Van Haandel L, Pearce RE: In Vitro Hepatic Oxidative Biotransformation of Trimethoprim. Drug Metab Dispos. 2015 Sep;43(9):1372-80. doi: 10.1124/dmd.115.065193. Epub 2015 Jul 2. [<a href='https://go.drugbank.com/articles/A191149'>Article</a>] "
+    },
+    {
+        "referenceId": "reference-L11917",
+        "details": "CaymanChem: Trimethoprim MSDS [<a href='https://www.caymanchem.com/msdss/16473m.pdf'>Link</a>] "
+    }
+]

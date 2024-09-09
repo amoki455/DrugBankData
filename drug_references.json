@@ -1,0 +1,1762 @@
+[
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-L11893"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-L11830"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-T707"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-L11890"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-L11863"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-L11887"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A191089"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-A191368"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-A191149"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-L11917"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-A234349"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-A234339"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-A234354"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-A233325"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-A234359"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-A234364"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A234369"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-A232294"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-A232304"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-A232309"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-A232314"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 12,
+        "infoReferenceId": "reference-A233320"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 13,
+        "infoReferenceId": "reference-A234130"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 14,
+        "infoReferenceId": "reference-A232329"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 15,
+        "infoReferenceId": "reference-A232334"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 16,
+        "infoReferenceId": "reference-A232339"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 17,
+        "infoReferenceId": "reference-A232344"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 18,
+        "infoReferenceId": "reference-L9689"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 19,
+        "infoReferenceId": "reference-L33254"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 20,
+        "infoReferenceId": "reference-A234334"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-L11979"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-A191529"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-A175042"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-L11985"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-L10532"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-L10716"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A15783"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-T28"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-L11982"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-A233325"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-A233390"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-A232294"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-A233320"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-A233769"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-A232304"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A232309"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-A232314"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-A232319"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-A232299"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-A232324"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 12,
+        "infoReferenceId": "reference-A232329"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 13,
+        "infoReferenceId": "reference-A232334"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 14,
+        "infoReferenceId": "reference-A232339"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 15,
+        "infoReferenceId": "reference-A232344"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 16,
+        "infoReferenceId": "reference-L33224"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 17,
+        "infoReferenceId": "reference-A233734"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 18,
+        "infoReferenceId": "reference-A233385"
+    },
+    {
+        "drugId": "DB00446",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-L43942"
+    },
+    {
+        "drugId": "DB00446",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-L44022"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-A178870"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-L6469"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-L6472"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-L6475"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-L6478"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-L6481"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-L6484"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-L6487"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-L6490"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-L6493"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-L6463"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 12,
+        "infoReferenceId": "reference-A178885"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 13,
+        "infoReferenceId": "reference-A178894"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 14,
+        "infoReferenceId": "reference-A178876"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 15,
+        "infoReferenceId": "reference-A178882"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 16,
+        "infoReferenceId": "reference-A178858"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 17,
+        "infoReferenceId": "label-reference-DB00537"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 18,
+        "infoReferenceId": "reference-A820"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 19,
+        "infoReferenceId": "reference-A178822"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 20,
+        "infoReferenceId": "reference-A178819"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 21,
+        "infoReferenceId": "reference-A178828"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 22,
+        "infoReferenceId": "reference-A178831"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 23,
+        "infoReferenceId": "reference-A178954"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 24,
+        "infoReferenceId": "reference-A178957"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 25,
+        "infoReferenceId": "reference-A178960"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 26,
+        "infoReferenceId": "reference-L6529"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-L11599"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-L11596"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-L11593"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-A190621"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-A190657"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-L11602"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-L11611"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-L11605"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-L11584"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-L11590"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-L48666"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 12,
+        "infoReferenceId": "reference-L11608"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 13,
+        "infoReferenceId": "reference-L39416"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 14,
+        "infoReferenceId": "reference-L11629"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 15,
+        "infoReferenceId": "reference-L11614"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-A190621"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-A190657"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-L33214"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-A233794"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-A233799"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-A233804"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A233819"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-A233839"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-A233844"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-A234019"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-L33304"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-L5245"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-L7261"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-A174175"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-L7270"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-A6505"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-A14179"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A174193"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-A180598"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-A180607"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-A174451"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-A180595"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 12,
+        "infoReferenceId": "reference-A174448"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 13,
+        "infoReferenceId": "reference-A174454"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 14,
+        "infoReferenceId": "reference-A33081"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 15,
+        "infoReferenceId": "reference-A174457"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 16,
+        "infoReferenceId": "reference-L7279"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-A190648"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-L11644"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-L11656"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-L11659"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-L11650"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-L7880"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-L11653"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-L9743"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-L11647"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-L41695"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-A6205"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 12,
+        "infoReferenceId": "reference-A190678"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 13,
+        "infoReferenceId": "reference-A190642"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 14,
+        "infoReferenceId": "reference-A190675"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 15,
+        "infoReferenceId": "reference-A190630"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 16,
+        "infoReferenceId": "reference-A190627"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 17,
+        "infoReferenceId": "reference-A190618"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 18,
+        "infoReferenceId": "reference-A190660"
+    },
+    {
+        "drugId": "DB01147",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-L33170"
+    },
+    {
+        "drugId": "DB01147",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-L33165"
+    },
+    {
+        "drugId": "DB01147",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-A15505"
+    },
+    {
+        "drugId": "DB01147",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-A233984"
+    },
+    {
+        "drugId": "DB01053",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "msds-reference-DB01053"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-A955"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-A181952"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-A181997"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-L7748"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-L7769"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-L7772"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A954"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-A182024"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-L7784"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-A182009"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-A182018"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 12,
+        "infoReferenceId": "reference-L7775"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 13,
+        "infoReferenceId": "reference-T662"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-A176429"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-A176426"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "label-reference-DB00781"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-A176432"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-A176390"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-F4151"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A176420"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-A176399"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-L11893"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-L11830"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-T707"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-L11890"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-L11863"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-L11887"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A191089"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-A191368"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-A191149"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-L11917"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-A234349"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-A234339"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-A234354"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-A233325"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-A234359"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-A234364"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A234369"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-A232294"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-A232304"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-A232309"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-A232314"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 12,
+        "infoReferenceId": "reference-A233320"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 13,
+        "infoReferenceId": "reference-A234130"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 14,
+        "infoReferenceId": "reference-A232329"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 15,
+        "infoReferenceId": "reference-A232334"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 16,
+        "infoReferenceId": "reference-A232339"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 17,
+        "infoReferenceId": "reference-A232344"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 18,
+        "infoReferenceId": "reference-L9689"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 19,
+        "infoReferenceId": "reference-L33254"
+    },
+    {
+        "drugId": "DB00798",
+        "infoReferenceOrder": 20,
+        "infoReferenceId": "reference-A234334"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-L11979"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-A191529"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-A175042"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-L11985"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-L10532"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-L10716"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A15783"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-T28"
+    },
+    {
+        "drugId": "DB00994",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-L11982"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-A233325"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-A233390"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-A232294"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-A233320"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-A233769"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-A232304"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A232309"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-A232314"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-A232319"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-A232299"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-A232324"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 12,
+        "infoReferenceId": "reference-A232329"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 13,
+        "infoReferenceId": "reference-A232334"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 14,
+        "infoReferenceId": "reference-A232339"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 15,
+        "infoReferenceId": "reference-A232344"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 16,
+        "infoReferenceId": "reference-L33224"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 17,
+        "infoReferenceId": "reference-A233734"
+    },
+    {
+        "drugId": "DB01082",
+        "infoReferenceOrder": 18,
+        "infoReferenceId": "reference-A233385"
+    },
+    {
+        "drugId": "DB00446",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-L43942"
+    },
+    {
+        "drugId": "DB00446",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-L44022"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-A178870"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-L6469"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-L6472"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-L6475"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-L6478"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-L6481"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-L6484"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-L6487"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-L6490"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-L6493"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-L6463"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 12,
+        "infoReferenceId": "reference-A178885"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 13,
+        "infoReferenceId": "reference-A178894"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 14,
+        "infoReferenceId": "reference-A178876"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 15,
+        "infoReferenceId": "reference-A178882"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 16,
+        "infoReferenceId": "reference-A178858"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 17,
+        "infoReferenceId": "label-reference-DB00537"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 18,
+        "infoReferenceId": "reference-A820"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 19,
+        "infoReferenceId": "reference-A178822"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 20,
+        "infoReferenceId": "reference-A178819"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 21,
+        "infoReferenceId": "reference-A178828"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 22,
+        "infoReferenceId": "reference-A178831"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 23,
+        "infoReferenceId": "reference-A178954"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 24,
+        "infoReferenceId": "reference-A178957"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 25,
+        "infoReferenceId": "reference-A178960"
+    },
+    {
+        "drugId": "DB00537",
+        "infoReferenceOrder": 26,
+        "infoReferenceId": "reference-L6529"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-L11599"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-L11596"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-L11593"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-A190621"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-A190657"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-L11602"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-L11611"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-L11605"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-L11584"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-L11590"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-L48666"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 12,
+        "infoReferenceId": "reference-L11608"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 13,
+        "infoReferenceId": "reference-L39416"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 14,
+        "infoReferenceId": "reference-L11629"
+    },
+    {
+        "drugId": "DB01190",
+        "infoReferenceOrder": 15,
+        "infoReferenceId": "reference-L11614"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-A190621"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-A190657"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-L33214"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-A233794"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-A233799"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-A233804"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A233819"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-A233839"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-A233844"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-A234019"
+    },
+    {
+        "drugId": "DB01627",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-L33304"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-L5245"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-L7261"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-A174175"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-L7270"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-A6505"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-A14179"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A174193"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-A180598"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-A180607"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-A174451"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-A180595"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 12,
+        "infoReferenceId": "reference-A174448"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 13,
+        "infoReferenceId": "reference-A174454"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 14,
+        "infoReferenceId": "reference-A33081"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 15,
+        "infoReferenceId": "reference-A174457"
+    },
+    {
+        "drugId": "DB00199",
+        "infoReferenceOrder": 16,
+        "infoReferenceId": "reference-L7279"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-A190648"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-L11644"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-L11656"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-L11659"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-L11650"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-L7880"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-L11653"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-L9743"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-L11647"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-L41695"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-A6205"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 12,
+        "infoReferenceId": "reference-A190678"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 13,
+        "infoReferenceId": "reference-A190642"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 14,
+        "infoReferenceId": "reference-A190675"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 15,
+        "infoReferenceId": "reference-A190630"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 16,
+        "infoReferenceId": "reference-A190627"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 17,
+        "infoReferenceId": "reference-A190618"
+    },
+    {
+        "drugId": "DB01060",
+        "infoReferenceOrder": 18,
+        "infoReferenceId": "reference-A190660"
+    },
+    {
+        "drugId": "DB01147",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-L33170"
+    },
+    {
+        "drugId": "DB01147",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-L33165"
+    },
+    {
+        "drugId": "DB01147",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-A15505"
+    },
+    {
+        "drugId": "DB01147",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-A233984"
+    },
+    {
+        "drugId": "DB01053",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "msds-reference-DB01053"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-A955"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-A181952"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-A181997"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-L7748"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-L7769"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-L7772"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A954"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-A182024"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-L7784"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-A182009"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 11,
+        "infoReferenceId": "reference-A182018"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 12,
+        "infoReferenceId": "reference-L7775"
+    },
+    {
+        "drugId": "DB00626",
+        "infoReferenceOrder": 13,
+        "infoReferenceId": "reference-T662"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-A176429"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-A176426"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "label-reference-DB00781"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-A176432"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-A176390"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-F4151"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A176420"
+    },
+    {
+        "drugId": "DB00781",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-A176399"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 1,
+        "infoReferenceId": "reference-L11893"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 2,
+        "infoReferenceId": "reference-L11830"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 3,
+        "infoReferenceId": "reference-T707"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 4,
+        "infoReferenceId": "reference-L11890"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 5,
+        "infoReferenceId": "reference-L11863"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 6,
+        "infoReferenceId": "reference-L11887"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 7,
+        "infoReferenceId": "reference-A191089"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 8,
+        "infoReferenceId": "reference-A191368"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 9,
+        "infoReferenceId": "reference-A191149"
+    },
+    {
+        "drugId": "DB00440",
+        "infoReferenceOrder": 10,
+        "infoReferenceId": "reference-L11917"
+    }
+]
